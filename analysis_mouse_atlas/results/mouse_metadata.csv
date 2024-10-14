@@ -1,0 +1,32 @@
+,donor_id,dataset__design__sample,dataset,design,strain,age,age_approxDays,diabetes_model,chemical_stress,GEO_accession,assay,disease,development_stage
+3,mouse_pancreatic_islet_atlas_Hrovatin__spikein_drug__SRR10751504,chem__DMSO_r1__SRR10751504,chem,DMSO_r1,129SV,2-3 m,75.0,,,GSE142465 (GSM4228185 - GSM4228199),10x 3' v2,normal,2 month-old stage
+25,mouse_pancreatic_islet_atlas_Hrovatin__spikein_drug__SRR10751509,chem__DMSO_r2__SRR10751509,chem,DMSO_r2,129SV,2-3 m,75.0,,,GSE142465 (GSM4228185 - GSM4228199),10x 3' v2,normal,2 month-old stage
+26,mouse_pancreatic_islet_atlas_Hrovatin__spikein_drug__SRR10751514,chem__DMSO_r3__SRR10751514,chem,DMSO_r3,129SV,2-3 m,75.0,,,GSE142465 (GSM4228185 - GSM4228199),10x 3' v2,normal,2 month-old stage
+28,mouse_pancreatic_islet_atlas_Hrovatin__embryo__E12_5,embryonic__E12.5__E12_5,embryonic,E12.5,C57BL/6J×129/SvJ; Ngn3-Venus fusion,12.5 E,-8.5,,,GSE132188,10x 3' v2,normal,Theiler stage 20
+30,mouse_pancreatic_islet_atlas_Hrovatin__embryo__E14_5,embryonic__E14.5__E14_5,embryonic,E14.5,C57BL/6J×129/SvJ; Ngn3-Venus fusion,14.5 E,-6.5,,,GSE132188,10x 3' v2,normal,Theiler stage 22
+29,mouse_pancreatic_islet_atlas_Hrovatin__embryo__E15_5,embryonic__E15.5__E15_5,embryonic,E15.5,C57BL/6J×129/SvJ; Ngn3-Venus fusion,15.5 E,-5.5,,,GSE132188,10x 3' v2,normal,Theiler stage 23
+1,mouse_pancreatic_islet_atlas_Hrovatin__VSG__MUC13631,db/db__PF_Lepr-/-__MUC13631,db/db,PF_Lepr-/-,BKSCg-Dock7m+/+Leprdb/J;db/db,16-18 w,119.0,T2D_db/db-treated_PairFeed,,GSE174194,10x 3' v3,type 2 diabetes mellitus,4 month-old stage
+8,mouse_pancreatic_islet_atlas_Hrovatin__VSG__MUC13632,db/db__PF_Lepr-/-__MUC13632,db/db,PF_Lepr-/-,BKSCg-Dock7m+/+Leprdb/J;db/db,16-18 w,119.0,T2D_db/db-treated_PairFeed,,GSE174194,10x 3' v3,type 2 diabetes mellitus,4 month-old stage
+20,mouse_pancreatic_islet_atlas_Hrovatin__STZ__G2,mSTZ__STZ__G2,mSTZ,STZ,C57BL/6J,182 d,182.0,T2D_mSTZ,,GSE128565,10x 3' v2,type 2 diabetes mellitus,6 month-old stage
+19,mouse_pancreatic_islet_atlas_Hrovatin__STZ__G4,mSTZ__STZ_GLP-1__G4,mSTZ,STZ_GLP-1,C57BL/6J,182 d,182.0,T2D_mSTZ-treated_GLP-1,,GSE128565,10x 3' v2,type 2 diabetes mellitus,6 month-old stage
+22,mouse_pancreatic_islet_atlas_Hrovatin__STZ__G6,mSTZ__STZ_GLP-1_estrogen__G6,mSTZ,STZ_GLP-1_estrogen,C57BL/6J,182 d,182.0,T2D_mSTZ-treated_GLP-1_estrogen,,GSE128565,10x 3' v2,type 2 diabetes mellitus,6 month-old stage
+14,mouse_pancreatic_islet_atlas_Hrovatin__STZ__G8,mSTZ__STZ_GLP-1_estrogen+insulin__G8,mSTZ,STZ_GLP-1_estrogen+insulin,C57BL/6J,182 d,182.0,T2D_mSTZ-treated_GLP-1_estrogen+insulin,,GSE128565,10x 3' v2,type 2 diabetes mellitus,6 month-old stage
+24,mouse_pancreatic_islet_atlas_Hrovatin__STZ__G5,mSTZ__STZ_estrogen__G5,mSTZ,STZ_estrogen,C57BL/6J,182 d,182.0,T2D_mSTZ-treated_estrogen,,GSE128565,10x 3' v2,type 2 diabetes mellitus,6 month-old stage
+16,mouse_pancreatic_islet_atlas_Hrovatin__STZ__G3,mSTZ__STZ_insulin__G3,mSTZ,STZ_insulin,C57BL/6J,182 d,182.0,T2D_mSTZ-treated_insulin,,GSE128565,10x 3' v2,type 2 diabetes mellitus,6 month-old stage
+17,mouse_pancreatic_islet_atlas_Hrovatin__VSG__MUC13642,db/db__VSG_Lepr-/-__MUC13642,db/db,VSG_Lepr-/-,BKSCg-Dock7m+/+Leprdb/J;db/db,16-18 w,119.0,T2D_db/db-treated_VSG,,GSE174194,10x 3' v3,type 2 diabetes mellitus,4 month-old stage
+12,mouse_pancreatic_islet_atlas_Hrovatin__VSG__MUC13640,db/db__VSG_Lepr-/-__MUC13640,db/db,VSG_Lepr-/-,BKSCg-Dock7m+/+Leprdb/J;db/db,16-18 w,119.0,T2D_db/db-treated_VSG,,GSE174194,10x 3' v3,type 2 diabetes mellitus,4 month-old stage
+15,mouse_pancreatic_islet_atlas_Hrovatin__VSG__MUC13633,db/db__chow_WT__MUC13633,db/db,chow_WT,BKSCg-Dock7m+/+Leprdb/J;WT,16-18 w,119.0,,,GSE174194,10x 3' v3,normal,4 month-old stage
+9,mouse_pancreatic_islet_atlas_Hrovatin__VSG__MUC13634,db/db__chow_WT__MUC13634,db/db,chow_WT,BKSCg-Dock7m+/+Leprdb/J;WT,16-18 w,119.0,,,GSE174194,10x 3' v3,normal,4 month-old stage
+4,mouse_pancreatic_islet_atlas_Hrovatin__STZ__G1,mSTZ__control__G1,mSTZ,control,C57BL/6J,182 d,182.0,,,GSE128565,10x 3' v2,normal,6 month-old stage
+11,mouse_pancreatic_islet_atlas_Hrovatin__Fltp_adult__mouse2,4m__head_Fltp+__mouse2,4m,head_Fltp+,C57BL/6J; Fltp ZV (Het),4 m,120.0,,,GSE211796,10x 3' v2,normal,4 month-old stage
+7,mouse_pancreatic_islet_atlas_Hrovatin__Fltp_adult__mouse1,4m__head_Fltp-__mouse1,4m,head_Fltp-,C57BL/6J; Fltp ZV (Het),4 m,120.0,,,GSE211796,10x 3' v2,normal,4 month-old stage
+10,mouse_pancreatic_islet_atlas_Hrovatin__Fltp_P16__145_mGFP,P16__mGFP__145_mGFP,P16,mGFP,C57BL/6J; Fltp iCre; mTmG,16 d,16.0,,,GSE161966,10x 3' v2,normal,2 weeks
+2,mouse_pancreatic_islet_atlas_Hrovatin__Fltp_2y__MUC13976,aged__mGFP__MUC13976,aged,mGFP,C57BL/6J; Fltp iCre; mTmG,2 y,730.0,,,GSE211795,10x 3' v3,normal,20 month-old stage and over
+6,mouse_pancreatic_islet_atlas_Hrovatin__Fltp_P16__146_mRFP,P16__mRFP__146_mRFP,P16,mRFP,C57BL/6J; Fltp iCre; mTmG,16 d,16.0,,,GSE161966,10x 3' v2,normal,2 weeks
+13,mouse_pancreatic_islet_atlas_Hrovatin__Fltp_2y__MUC13974,aged__mRFP__MUC13974,aged,mRFP,C57BL/6J; Fltp iCre; mTmG,2 y,730.0,,,GSE211795,10x 3' v3,normal,20 month-old stage and over
+18,mouse_pancreatic_islet_atlas_Hrovatin__Fltp_2y__MUC13975,aged__mTmG__MUC13975,aged,mTmG,C57BL/6J; Fltp iCre; mTmG,2 y,730.0,,,GSE211795,10x 3' v3,normal,20 month-old stage and over
+21,mouse_pancreatic_islet_atlas_Hrovatin__Fltp_P16__147_mTmG,P16__mTmG__147_mTmG,P16,mTmG,C57BL/6J; Fltp iCre; mTmG,16 d,16.0,,,GSE161966,10x 3' v2,normal,2 weeks
+27,mouse_pancreatic_islet_atlas_Hrovatin__VSG__MUC13639,db/db__sham_Lepr-/-__MUC13639,db/db,sham_Lepr-/-,BKSCg-Dock7m+/+Leprdb/J;db/db,16-18 w,119.0,T2D_db/db,,GSE174194,10x 3' v3,type 2 diabetes mellitus,4 month-old stage
+0,mouse_pancreatic_islet_atlas_Hrovatin__VSG__MUC13641,db/db__sham_Lepr-/-__MUC13641,db/db,sham_Lepr-/-,BKSCg-Dock7m+/+Leprdb/J;db/db,16-18 w,119.0,T2D_db/db,,GSE174194,10x 3' v3,type 2 diabetes mellitus,4 month-old stage
+5,mouse_pancreatic_islet_atlas_Hrovatin__Fltp_adult__mouse4,4m__tail_Fltp+__mouse4,4m,tail_Fltp+,C57BL/6J; Fltp ZV (Het),4 m,120.0,,,GSE211796,10x 3' v2,normal,4 month-old stage
+23,mouse_pancreatic_islet_atlas_Hrovatin__Fltp_adult__mouse3,4m__tail_Fltp-__mouse3,4m,tail_Fltp-,C57BL/6J; Fltp ZV (Het),4 m,120.0,,,GSE211796,10x 3' v2,normal,4 month-old stage
