@@ -1,1 +1,1 @@
-Codebase for "Pancreatic β cell stress drives ductal adenocarcinoma development through endocrine-exocrine signaling"
+Codebase for "Beta cells are essential drivers of pancreatic ductal adenocarcinoma development"
