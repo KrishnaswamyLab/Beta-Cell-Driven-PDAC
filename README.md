@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/872677860.svg)](https://doi.org/10.5281/zenodo.18316268)
+[![DOI](zenodo.18316269.svg)](https://doi.org/10.5281/zenodo.18316268)
+
 
 # Codebase for "Beta cell-derived cholecystokinin drives obesity-associated pancreatic adenocarcinoma development"
 
