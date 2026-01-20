@@ -1,4 +1,6 @@
-# Codebase for "Beta cells are essential drivers of pancreatic ductal adenocarcinoma development"
+[![DOI](https://zenodo.org/badge/872677860.svg)](https://doi.org/10.5281/zenodo.18316268)
+
+# Codebase for "Beta cell-derived cholecystokinin drives obesity-associated pancreatic adenocarcinoma development"
 
 ### System requirements
 Python 3.8.18 on any operating system with no non-standard software required.
